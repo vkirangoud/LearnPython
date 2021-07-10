@@ -1,4 +1,4 @@
-datasciencecoursera
+LearnPython
 ===================
 
-repo of dataScience coursera course
+Contains my practice examples.
